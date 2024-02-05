@@ -26,10 +26,7 @@ Carbon theme in Proton Mail is beautiful but not complete, so i fix this.
 
 2. Go on [Proton Mail Carbon Editor Theme](https://raw.githubusercontent.com/breatfr/Proton-Mail-Carbon-Editor-Theme/master/proton_mail_carbon_editor_theme.user.css) website and click on `Install` on left.
 
-3. To update the theme, open the `Stylus Management` window and click on `Check for update` and follow the instructions or just wait 24h to automatic update
-
-PS: Normally with the v3 you won't need modify my theme yourself and if you do you won't get update anymore.
-PS2: Like i put on GitHub only I don't know if automatic update from stylus will works so you'll need re-install waiting userstyles.world works correctly.
+3. To update the theme, open the `Stylus Management` window and click on `Check for update` and follow the instructions or just wait 24h to automatic update.
 
 4. Enjoy :)
 
