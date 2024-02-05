@@ -1,11 +1,21 @@
 /* ==UserStyle==
-@name         Proton Mail Carbon Editor theme
-@version      20230912.08.25
-@namespace    userstyles.world/user/breat
+@name         Proton Mail Carbon Editor Theme
 @description  Carbon theme in Proton Mail is beautiful but not complete, so i fix this.
-@author       breat
-@license      No License
+@version      1.00
+@namespace    userstyles.world/user/breat
+@author       BreatFR
+@updateURL    https://github.com/breatfr/Proton-Mail-Carbon-Editor-Theme/raw/main/proton_mail_carbon_editor_theme.user.css
+@license      GNU GPL v3 (https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 ==/UserStyle== */
+
+/* === Credits ===
+Website         https://breat.fr
+facebook        https://www.facebook.com/breatfroff
+mastodon        https://mastodon.social/@breat_fr
+telegram        https://t.me/+5ZLC2qntf6xmYmI0
+vk              https://vk.com/breatfroff
+X (twitter)     https://x.com/breatfroff
+=== Credits === */
 
 @-moz-document domain("account.proton.me"), domain("mail.proton.me") {
 /* Carbon mode editor */
