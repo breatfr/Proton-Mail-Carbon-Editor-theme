@@ -1,4 +1,4 @@
-# Proton Mail Carbon Editor Theme
+# Proton Mail Carbon Editor Theme [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/breatfr)
 Carbon theme in Proton Mail is beautiful but not complete, so i fix this.
 ## Preview
 ![Preview](https://raw.githubusercontent.com/breatfr/Proton-Mail-Carbon-Editor-Theme/master/preview.jpg)
@@ -29,5 +29,3 @@ Carbon theme in Proton Mail is beautiful but not complete, so i fix this.
 3. To update the theme, open the `Stylus Management` window and click on `Check for update` and follow the instructions or just wait 24h to automatic update.
 
 4. Enjoy :)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/breatfr)
