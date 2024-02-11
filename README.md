@@ -1,4 +1,4 @@
-# Proton Mail Carbon Editor Theme [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/breatfr) <a href="https://www.paypal.me/breat"><img src="https://github.com/andreostrovsky/donate-with-paypal/raw/master/blue.svg" alt="PayPal" height="30"></a>
+# <img src="https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg" alt="Proton Mail" height="30px"> Proton Mail Carbon Editor Theme [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/breatfr) <a href="https://www.paypal.me/breat"><img src="https://github.com/andreostrovsky/donate-with-paypal/raw/master/blue.svg" alt="PayPal" height="30"></a>
 Carbon theme in Proton Mail is beautiful but not complete, so i fix this.
 ## Preview
 ![Preview](https://raw.githubusercontent.com/breatfr/Proton-Mail-Carbon-Editor-Theme/master/preview.jpg)
